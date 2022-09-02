@@ -1,0 +1,37 @@
+*{
+    font-family: 'Barlow', sans-serif;
+
+
+}
+
+body {
+  background-color: #3e83ce;
+
+}
+
+section {
+  margin: auto;
+  margin-top: 1rem;
+  background-color: white;
+  width: 60vh;
+  height: 50vh;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+h1,
+footer {
+  color: white;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+#p3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
