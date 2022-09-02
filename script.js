@@ -25,7 +25,7 @@ function masc(){
     p.innerText = `Detectamos homem com ${result} anos de idade.`
 
     if( result < 13){
-        "./images/hchildren.jpg"
+        img.src = "./images/hchildren.jpg"
         p.innerText = `Detectamos menino com ${result} anos de idade.`
     }else if(result <18){
 
